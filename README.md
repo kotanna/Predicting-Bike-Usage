@@ -11,8 +11,6 @@ to predict bike usage in the (metro) Washington, D.C. and determine what, if any
 
 The dataset consists of roughly 21,700 response variables. An analysis of the data is performed, and a vector of features is collected and analyzed in Python. 
 
-This project was completed by [Anna M. Kot](https://github.com/kotanna) at University of New Hampshire for DATA802: Analytical Tools and Foundations (Summer 2018).
-
 ---
 
 ## Authors and Acknowledgments
